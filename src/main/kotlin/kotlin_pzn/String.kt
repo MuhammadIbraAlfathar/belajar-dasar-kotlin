@@ -5,9 +5,8 @@ fun main() {
     val firstName = "Muhammad Ibra Alfathar"
 
     val addres : String = """
-        Jl. DI Panjaitan
-        Cipinang Besar Utara
-        Jakarta Timur
+        Jl. Kebon singkong
+        DKI JAKARTA
     """.trimIndent()
 
     println(firstName)
